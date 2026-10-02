@@ -1,2 +1,3 @@
 Este es mi nuevo archivo para el PR
 Línea extra para el PR
+Esta es la corrección solicitada por mi compañero
